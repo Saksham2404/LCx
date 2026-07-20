@@ -53,5 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saksham2404/LCx/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Saksham2404/LCx/tree/master/0091-decode-ways) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saksham2404/LCx/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saksham2404/LCx/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
