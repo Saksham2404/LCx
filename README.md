@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Saksham2404/LCx/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Saksham2404/LCx/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Saksham2404/LCx/tree/master/0125-valid-palindrome) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saksham2404/LCx/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Saksham2404/LCx/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Saksham2404/LCx/tree/master/0091-decode-ways) |
 ## Math
 |  |
